@@ -10,4 +10,6 @@ Spigot : Soon...
 
 By : alimining01
 
-## YOU NEED DOWNLOAD .RAR FILE AND COMPILE IT WITH MVN PACKAGE
+## THIS IS V1.6 .JAR FILE
+
+discord support id : alimining012
