@@ -6,4 +6,8 @@ A  Mc Plugin For Hide CMDs Support Spigot / Paper / Bukkit / PufferFish / Purpur
 
 
 Spigot : Soon...
+
+
 By : alimining01
+
+## YOU NEED DOWNLOAD .RAR FILE AND COMPILE IT WITH MVN PACKAGE
